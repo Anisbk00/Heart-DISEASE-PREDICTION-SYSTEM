@@ -11,3 +11,13 @@
 ![Age vs. Heart Disease](outputs/age_vs_heartdisease.png)
 ![Chest Pain vs. Heart Disease](outputs/chestpain_vs_heartdisease.png)
 ![Correlation Heatmap](outputs/correlation_heatmap.png)
+
+## Day 2: Model Building & Evaluation  
+### Key Results  
+- **Best Model**: Random Forest (F1-score: 0.89).  
+- **Top Features**: `Oldpeak`, `MaxHR`, and `ChestPainType_ATA`.  
+- **ROC-AUC**: 0.93.  
+
+### Visualizations  
+![ROC Curve](outputs/roc_curve.png)  
+![Feature Importance](outputs/feature_importance.png)  
